@@ -1,0 +1,85 @@
+{
+    "shopping_list": [
+        {
+            "Serial number": 1,
+            "Item_name":"Tea",
+            "Quantity":1,
+            "Unit":"INR 40/kg",
+            "Department":"Food",
+            "Notes":"Either Taj or Society"
+        },
+        {
+            "Serial number": 2,
+            "Item_name":"Rice",
+            "Quantity":10,
+            "Unit":"INR 30/kg",
+            "Department":"Food",
+            "Notes":"Only Basmati 1st quality"
+        },
+        {
+            "Serial number": 3,
+            "Item_name":"Pen",
+            "Quantity":5,
+            "Unit":"INR 5/unit",
+            "Department":"Stationary",
+            "Notes":"Only Ball pen"
+        },
+        {
+            "Serial number": 4,
+            "Item_name":"Face Wash",
+            "Quantity":2,
+            "Unit":"INR 99/unit",
+            "Department":"Cosmetics",
+            "Notes":"Biotique or Dove"
+        },
+        {
+            "Serial number": 5,
+            "Item_name":"Shampoo",
+            "Quantity":1,
+            "Unit":"INR 120/unit",
+            "Department":"Cosmetics",
+            "Notes":"Hair care, Biotique"
+        },
+        {
+            "Serial number": 6,
+            "Item_name":"Bathing Soap",
+            "Quantity":3,
+            "Unit":"INR 25/unit",
+            "Department":"Cosmetics",
+            "Notes":"Bio-Almond Biotique"
+        },
+        {
+            "Serial number": 7,
+            "Item_name":"Detergent",
+            "Quantity":2,
+            "Unit":"INR 150/kg",
+            "Department":"Stationary",
+            "Notes":"Liquid Detergent- Genteel"
+        },
+        {
+            "Serial number": 8,
+            "Item_name":"Sweets",
+            "Quantity":10,
+            "Unit":"INR 20/unit",
+            "Department":"Food",
+            "Notes":"Only Bounty Coconut"
+        },
+        {
+            "Serial number": 9,
+            "Item_name":"Pressure Cooker",
+            "Quantity":1,
+            "Unit":"INR 1200/unit",
+            "Department":"Kitchen Utensils",
+            "Notes":"3kg Hawkings Ventura"   
+        },
+        {
+            "Serial number": 10,
+            "Item_name":"Dishwash Scrubber",
+            "Quantity":2,
+            "Unit":"INR 10/unit",
+            "Department":"Stationary",
+            "Notes":"Double sided with scrub and sponge"
+        }
+
+    ]
+}

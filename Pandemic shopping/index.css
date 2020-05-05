@@ -1,0 +1,36 @@
+table, tr, td,th {
+    border: red 3px solid;
+    border-collapse: collapse;
+}
+th{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-decoration: overline;
+}
+table{
+    position: relative;
+    top: 230px;
+    left: 170px;
+    width: 75%;
+    background: linear-gradient(45deg, brown 50%, orange 50%);
+}
+td{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#press{
+    position: absolute;
+    top: 120px;
+    left: 512px;
+    font-size: 40px ;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    border-color: brown;
+    border-style: ridge;
+    border-radius: 15px;
+    background-image: linear-gradient(40deg,brown,red,orange);
+}
