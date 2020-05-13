@@ -28,3 +28,12 @@ function grab() {
     xhttp.open("GET", "shopping_list.json", true);
     xhttp.send();
 }
+function display(){
+    document.getElementById('grocerylist').removeAttribute('hidden',true);
+}
+var get=document.getElementsByClassName('searchfield');
+function find(){
+    if(get[0].value==''){
+        document.getElementById('lookup').placeholder="Create table first";
+    }
+}
